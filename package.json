@@ -1,0 +1,30 @@
+{
+  "name": "affichain-core",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Institutional-grade financial, mathematical, and cryptographic utility engine by Affi-Chain. 100% client-side, zero dependencies.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "keywords": [
+    "mortgage-calculator",
+    "loan-amortization",
+    "compound-interest",
+    "financial-math",
+    "developer-tools",
+    "affichain",
+    "piti-calculator",
+    "cagr-calculator"
+  ],
+  "author": "Neelesh Yadav <https://github.com/Neeleshydv>",
+  "homepage": "https://www.affichain.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neeleshydv/affichain-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Neeleshydv/affichain-core/issues"
+  },
+  "license": "MIT"
+}
